@@ -8,8 +8,17 @@ Week 1: Finished and submitted the homework about requirement analysis, which in
     - Use case specification for 3 use cases: Place Order, Place Rush Order, Pay Order
     
     - Activity diagram for 3 use cases: Place Order, Place Rush Order, Pay Order
+    
+Week 2: Edit SRS    
 
+Week 3: Finished and submitted the homework about architectural design, which includes:
 
+    - Analysis classes for 3 use cases: Place Order, Place Rush Order, Pay Order
+    
+    - Sequence diagram for 3 use cases: Place Order, Place Rush Order, Pay Order
+    
+    - Communication diagram for 3 use cases: Place Order, Place Rush Order, Pay Order
+    
 
 
 

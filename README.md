@@ -19,6 +19,12 @@ Week 3: Finished and submitted the homework about architectural design, which in
     
     - Communication diagram for 3 use cases: Place Order, Place Rush Order, Pay Order
     
+Week 4: Finished and submitted the homework about UI design, which includes:
 
+    - Screen Images
+    
+    - Screen Transition Graph
+    
+    - Screen Specification document
 
 

@@ -26,5 +26,11 @@ Week 4: Finished and submitted the homework about UI design, which includes:
     - Screen Transition Graph
     
     - Screen Specification document
+    
+Week 5: Finished and submitted the homework about system interface design, which includes:
+
+    - Interface Design for subsystem Interbank
+    
+    - Subsystem Design for subsystem Interbank
 
 

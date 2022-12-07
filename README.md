@@ -32,5 +32,9 @@ Week 5: Finished and submitted the homework about system interface design, which
     - Interface Design for subsystem Interbank
     
     - Subsystem Design for subsystem Interbank
+    
+Week 6: Finished and submitted the homework about class diagram, which includes:
+
+    - Class Design for subsystem Interbank as well as the whole system
 
 

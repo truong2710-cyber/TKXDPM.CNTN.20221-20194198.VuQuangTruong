@@ -33,4 +33,14 @@ Week 5: Finished and submitted the homework about system interface design, which
     
     - Subsystem Design for subsystem Interbank
 
+Week 6: Finished and submitted the homework about class diagram, which includes:
 
+    - Class Design for subsystem Interbank as well as the whole system
+    
+Week 7: Finished and submitted the homework about ERD and Unit Test, which includes:
+
+    - ERD for the whole system
+    
+    - Unit test for some code functions
+    
+Week 8: Finished and submitted the source code for AIMS
